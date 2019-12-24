@@ -1,0 +1,9 @@
+D:\ohmygod\네트워크\networkProject\NetworkProject\NetworkProject\bin\Debug\NetworkProject.exe.config
+D:\ohmygod\네트워크\networkProject\NetworkProject\NetworkProject\bin\Debug\NetworkProject.exe
+D:\ohmygod\네트워크\networkProject\NetworkProject\NetworkProject\bin\Debug\NetworkProject.pdb
+D:\ohmygod\네트워크\networkProject\NetworkProject\NetworkProject\obj\Debug\NetworkProject.csprojAssemblyReference.cache
+D:\ohmygod\네트워크\networkProject\NetworkProject\NetworkProject\obj\Debug\NetworkProject.Form1.resources
+D:\ohmygod\네트워크\networkProject\NetworkProject\NetworkProject\obj\Debug\NetworkProject.Properties.Resources.resources
+D:\ohmygod\네트워크\networkProject\NetworkProject\NetworkProject\obj\Debug\NetworkProject.csproj.GenerateResource.cache
+D:\ohmygod\네트워크\networkProject\NetworkProject\NetworkProject\obj\Debug\NetworkProject.exe
+D:\ohmygod\네트워크\networkProject\NetworkProject\NetworkProject\obj\Debug\NetworkProject.pdb
